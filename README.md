@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saoudicode
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JS, API etc
+- 🌱 I’m currently learning JS, APIs etc
 - 📫 How to reach me saoudi.dev@gmail.com
 
 <!---
